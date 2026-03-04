@@ -1,0 +1,43 @@
+Registro.cshtml
+ 
+
+@{
+    ViewBag.Title = "Registro";
+}
+ 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Registro</title>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<link href="~/Content/css/Registro.css" rel="stylesheet">
+<script type="text/javascript" src="js/app.js"></script>
+</head>
+<body>
+ 
+    <form action="@Url.Action("Registro","Acceso")" method="post" class="form-register">
+<h2 class="form-titulo">REGISTRO</h2>
+<div class="contenedor-inputs">
+<input type="text" id="Idempleado" name="Idempleado" placeholder="Identificación" class="input-48" required>
+<input type="text" id="nombre" name="nombre" placeholder="Nombre" class="input-48" required>
+<input type="text" id="apellido" name="apellido" placeholder="Apellido" class="input-48" required>
+<input type="text" id="correo" name="correo" placeholder="Correo" class="input-48" required>
+<input type="datetime" id="FechaNacimiento" name="FechaNacimiento" placeholder="mm/dd/yyyy" class="input-48" required>
+ 
+            <input type="password" id="clave" name="clave" placeholder="Contraseña" class="input-48" required>
+ 
+            <label class="input-48" for="genero">Genero:</label>
+<select id="genero" name="genero" class="input-100">
+<option class="input-100" value="M">Masculino</option>
+<option value="F">Femenino</option>
+</select>
+ 
+ 
+            <input type="submit" value="Registrar" class="btn-enviar">
+<p class="form-link">Ya tienes una cuenta?    @Html.ActionLink("ingresa aquí", "Autenticar", "Acceso", new { area = "" }, new { @class = "nav-link" })</p>
+</div>
+</form>
+ 
+</body>
+</html>

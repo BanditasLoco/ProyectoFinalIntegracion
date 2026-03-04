@@ -1,0 +1,41 @@
+﻿@page
+@model ExamenGrupalIntegracion.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="~/css/Autenticar.css" rel="stylesheet" />
+</head>
+<body>
+    <form method="post">
+        <h1>Acceso para Empleados</h1>
+        <div class="inset">
+            <p>
+                <label for="Email">USUARIO</label>
+                <input type="text" asp-for="Email" id="Email" required>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </p>
+            <p>
+                <label for="Clave">CLAVE</label>
+                <input type="password" asp-for="Clave" id="Clave" required>
+                <span asp-validation-for="Clave" class="text-danger"></span>
+            </p>
+        </div>
+        <p class="p-container">
+            <a href="/Registro" class="nav-link">Registrar</a>
+            <input type="submit" value="Iniciar Sesión">
+        </p>
+
+        @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+        {
+            <div class="alert alert-danger">@Model.ErrorMessage</div>
+        }
+    </form>
+</body>
+</html>

@@ -1,0 +1,60 @@
+﻿@page
+@model ExamenGrupalIntegracion.Pages.RegistroModel
+@{
+    ViewData["Title"] = "Registro";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>@ViewData["Title"]</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link href="~/css/Registro.css" rel="stylesheet">
+</head>
+<body>
+    <form method="post" class="form-register">
+        <h2 class="form-titulo">REGISTRO</h2>
+        <div class="contenedor-inputs">
+            <input type="text" asp-for="IdEmpleado" placeholder="Identificación" class="input-48" required>
+            <span asp-validation-for="IdEmpleado" class="text-danger"></span>
+
+            <input type="text" asp-for="Nombre" placeholder="Nombre" class="input-48" required>
+            <span asp-validation-for="Nombre" class="text-danger"></span>
+
+            <input type="text" asp-for="Apellido" placeholder="Apellido" class="input-48" required>
+            <span asp-validation-for="Apellido" class="text-danger"></span>
+
+            <input type="email" asp-for="Correo" placeholder="Correo" class="input-48" required>
+            <span asp-validation-for="Correo" class="text-danger"></span>
+
+            <input type="date" asp-for="FechaNacimiento" class="input-48" required>
+            <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+
+            <input type="password" asp-for="Clave" placeholder="Contraseña" class="input-48" required>
+            <span asp-validation-for="Clave" class="text-danger"></span>
+
+            <label class="input-48" for="Genero">Género:</label>
+            <select asp-for="Genero" class="input-100" required>
+                <option value="">Seleccionar...</option>
+                <option value="M">Masculino</option>
+                <option value="F">Femenino</option>
+            </select>
+            <span asp-validation-for="Genero" class="text-danger"></span>
+
+            <input type="submit" value="Registrar" class="btn-enviar">
+            <p class="form-link">¿Ya tienes una cuenta? <a href="/Login" class="nav-link">Ingresa aquí</a></p>
+        </div>
+
+        @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+        {
+            <div class="alert alert-danger">@Model.ErrorMessage</div>
+        }
+
+        @if (!string.IsNullOrEmpty(Model.SuccessMessage))
+        {
+            <div class="alert alert-success">@Model.SuccessMessage</div>
+        }
+    </form>
+</body>
+</html>

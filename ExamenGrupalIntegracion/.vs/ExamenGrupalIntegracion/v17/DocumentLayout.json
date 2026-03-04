@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|d:\\users\\estebanromero\\onedrive - cetco s.a\\ister\\integracion de software\\examen final grupal\\examengrupalintegracion\\examengrupalintegracion\\pages\\registro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|solutionrelative:examengrupalintegracion\\pages\\registro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|d:\\users\\estebanromero\\onedrive - cetco s.a\\ister\\integracion de software\\examen final grupal\\examengrupalintegracion\\examengrupalintegracion\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|solutionrelative:examengrupalintegracion\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|d:\\users\\estebanromero\\onedrive - cetco s.a\\ister\\integracion de software\\examen final grupal\\examengrupalintegracion\\examengrupalintegracion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|solutionrelative:examengrupalintegracion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|d:\\users\\estebanromero\\onedrive - cetco s.a\\ister\\integracion de software\\examen final grupal\\examengrupalintegracion\\examengrupalintegracion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|solutionrelative:examengrupalintegracion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|d:\\users\\estebanromero\\onedrive - cetco s.a\\ister\\integracion de software\\examen final grupal\\examengrupalintegracion\\examengrupalintegracion\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|solutionrelative:examengrupalintegracion\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|d:\\users\\estebanromero\\onedrive - cetco s.a\\ister\\integracion de software\\examen final grupal\\examengrupalintegracion\\examengrupalintegracion\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|solutionrelative:examengrupalintegracion\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|d:\\users\\estebanromero\\onedrive - cetco s.a\\ister\\integracion de software\\examen final grupal\\examengrupalintegracion\\examengrupalintegracion\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE59C217-8CCC-4C45-97A0-96B2F8D3FCBD}|ExamenGrupalIntegracion\\ExamenGrupalIntegracion.csproj|solutionrelative:examengrupalintegracion\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ExamenGrupalIntegracion\\Models\\Employee.cs",
+              "ToolTip": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Models\\Employee.cs",
+              "RelativeToolTip": "ExamenGrupalIntegracion\\Models\\Employee.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:46:04.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExamenGrupalIntegracion\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Pages\\Login.cshtml",
+              "RelativeToolTip": "ExamenGrupalIntegracion\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T03:40:20.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamenGrupalIntegracion\\appsettings.json",
+              "ToolTip": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\appsettings.json",
+              "RelativeToolTip": "ExamenGrupalIntegracion\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T03:39:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ExamenGrupalIntegracion\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "ExamenGrupalIntegracion\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T02:31:52.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registro.cshtml.cs",
+              "DocumentMoniker": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Pages\\Registro.cshtml.cs",
+              "RelativeDocumentMoniker": "ExamenGrupalIntegracion\\Pages\\Registro.cshtml.cs",
+              "ToolTip": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Pages\\Registro.cshtml.cs",
+              "RelativeToolTip": "ExamenGrupalIntegracion\\Pages\\Registro.cshtml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwGEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T02:31:30.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenGrupalIntegracion\\Program.cs",
+              "ToolTip": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Program.cs",
+              "RelativeToolTip": "ExamenGrupalIntegracion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T03:32:58.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ExamenGrupalIntegracion\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Users\\EstebanRomero\\OneDrive - CETCO S.A\\Ister\\Integracion de Software\\Examen Final Grupal\\ExamenGrupalIntegracion\\ExamenGrupalIntegracion\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ExamenGrupalIntegracion\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T03:31:04.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

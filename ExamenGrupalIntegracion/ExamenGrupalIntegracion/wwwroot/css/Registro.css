@@ -1,0 +1,90 @@
+﻿/* Estilos para el formulario de registro */
+.form-register {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.form-titulo {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
+.contenedor-inputs {
+    display: grid;
+    gap: 15px;
+}
+
+.input-48, .input-100 {
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+    .input-48:focus, .input-100:focus {
+        outline: none;
+        border-color: #007bff;
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.3);
+    }
+
+.btn-enviar {
+    background: #007bff;
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 20px;
+}
+
+    .btn-enviar:hover {
+        background: #0056b3;
+    }
+
+.form-link {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.nav-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+    .nav-link:hover {
+        text-decoration: underline;
+    }
+
+.text-danger {
+    color: #dc3545;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.alert {
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+}
